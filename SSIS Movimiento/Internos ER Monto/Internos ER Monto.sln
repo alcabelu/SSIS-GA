@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "Internos ER Monto", "Internos ER Monto\Internos ER Monto.dtproj", "{DBCC74A6-8230-47BB-B3F3-F7518F02A0CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBCC74A6-8230-47BB-B3F3-F7518F02A0CB}.Development|Default.ActiveCfg = Development
+		{DBCC74A6-8230-47BB-B3F3-F7518F02A0CB}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
